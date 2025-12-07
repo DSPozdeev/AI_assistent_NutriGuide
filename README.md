@@ -61,4 +61,4 @@ NutriGuide — это не просто калькулятор калорий, �
   Интеграция с Telegram позволяет получать поддержку в любое время — без скачивания приложений или запоминания паролей.
 
   Скриншоты: <img width="1257" height="1038" alt="image" src="https://github.com/user-attachments/assets/fd45fbeb-814a-4233-bbad-fc820f5e7cfa" />
- ![Скриншоты ТГ:] (https://github.com/DSPozdeev/AI_assistent_NutriGuide/blob/main/Скрин1.jpg?raw=true)
+  Скриншоты ТГ: (https://github.com/DSPozdeev/AI_assistent_NutriGuide/blob/main/Скрин1.jpg?raw=true)
